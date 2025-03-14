@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @amanrajtoppoart007
 - 👀 I’m interested in React Native , React JS , Laravel , NodeJS
-- 🌱 I’m currently learning NodeJs
 - 💞️ I’m looking to collaborate on React Native , Laravel , ReactJS , NodeJS projects
 - 📫 You can reach me via office.amanraj@gmail.com or telegram on [@amanraj](https://t.me/amanrajtoppoart)
 
